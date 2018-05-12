@@ -1,0 +1,82 @@
+.firstlist{
+
+	color:#fafbfc;
+	font-size: 15px;
+	line-height: 49px;
+
+
+}
+
+.down{
+
+	position: relative;
+	top:360px;
+}
+
+.header{
+	width: 100%;
+	height:36%;
+    box-shadow:0 1px 50px 0 rgba(46,61,73,.2);
+}
+#button{
+
+	 border:1px solid #02b3e4;
+    background-color:#02b3e4;
+    color: white;
+    padding-right: 52px;
+    padding-left: 52px;
+    padding-top: 12px;
+    padding-bottom:12px;
+    border-radius: 3px;
+    box-shadow:0 14px 30px 0 rgba(46,61,73,.2);
+    position: relative;
+    top:70px;
+    left:50px;
+    font-size:14px;
+}
+
+#button:hover { 
+	background-color: #4682B4;
+     box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  transition: box-shadow 0.1s ease-in-out;
+}
+
+#card1{
+
+	width: 890px;
+	height: 350px;
+	position: relative;
+	left: 240px;
+	top:25px;
+	padding-right: 0px;
+	box-shadow:0 9px 40px 0 rgba(46,61,73,.2);
+}
+#card1:hover { 
+     box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  transition: box-shadow 0.1s ease-in-out;
+}
+
+
+
+.start-button{     
+    font-size: 12px;
+    font-weight:bold;
+     color: #02b3e9;
+    border: 1px solid #02b3e4;
+    background-color: #fff;
+    border-radius: 4px;
+    letter-spacing:4px;
+    line-height: 32px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 27px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    position: relative;
+    top: 40px; 
+}
+.start-button:hover{
+
+     border: 1px solid blue;
+}
